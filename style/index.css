@@ -1,6 +1,6 @@
 
 body{
-  margin:0 ;
+  margin:auto ;
   background-color: #ffffff;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -15,7 +15,7 @@ body{
 }
 
 .index {
-  margin: 0;
+  margin: auto;
   font-family: Arial, Helvetica, sans-serif;
   background-image: url("https://i1.wp.com/www.beyonddracula.com/wp-content/uploads/2018/01/Ceramica-de-Marginea-How-its-made.jpg?ssl=1");
   background-color: #cccccc;
@@ -25,13 +25,15 @@ body{
   left: 50%;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
-  text-align: center; 
-  color: #f2f2f2;
-  font-size: 100px;
+  display:flex;
+  margin: auto;
 
+  color: #f2f2f2;
+  font-size: 5em;
 }
 .lol:hover{
-  font-size: 80px;
+  
+  font-size: 3em;
   color: rgb(231, 255, 17);
   transition: .2s;
 }
@@ -47,17 +49,19 @@ body{
 .h4{
   position: absolute;
   left: 50%;
-  top: 60%;
+  top: 70%;
   transform: translateX(-50%) translateY(-50%);
-  font-size: 40px;
-
+  font-size: 2.5em;
+margin: auto;
   color: #f2f2f2;
 
 }
 .h4:hover{
-  font-size: 60px;
+  font-size: 1.8em;
   color: rgb(0, 132, 255);
-  transition: .4s;
+  transition: .2s;
+  margin: auto;
+
 }
 
 .topnav a {
