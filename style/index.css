@@ -39,7 +39,7 @@ body{
   margin: auto;
 text-decoration: none;
   color: #f2f2f2;
-  font-size:10vh;
+  font-size:8vh;
   font-family: sans-serif;
   
  
@@ -47,7 +47,7 @@ text-decoration: none;
 }
 .lol:hover{
   
-  font-size: 12vh;
+  font-size: 6vh;
   color: rgb(231, 255, 17);
   transition: .2s;
  
@@ -76,7 +76,7 @@ margin: auto;
   text-transform: inherit;
 }
 .h4:hover{
-  font-size: 2rem;
+  font-size: 2vh;
   color: rgb(0, 132, 255);
   transition: .4s;
   margin: auto;

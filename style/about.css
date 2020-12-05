@@ -46,9 +46,9 @@
 }
 
 .membruEchipa img {
-  width:16vh;
-  height: 16vh;
-  border-radius: 2rem 0 2rem 0;
+  width:12vh;
+  height: 12vh;
+  border-radius: 1rem 1rem 0 0;
   object-fit: cover;
 }
 
