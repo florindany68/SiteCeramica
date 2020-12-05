@@ -12,7 +12,7 @@ body{
   text-align: center;
   justify-content:center;
   margin: 0 auto;
-  top: 100vh;
+  top: 0;
 
 
 }
@@ -20,7 +20,7 @@ body{
 .index {
   margin: auto;
   font-family: 'Segoe UI',  'Open Sans', 'Helvetica Neue', sans-serif, Helvetica, sans-serif;
-  height: 100vh;
+ 
   display: flex;
   align-items: center;
   justify-content: center;
@@ -59,7 +59,7 @@ text-decoration: none;
   text-align: center;
   justify-content:center;
   margin: 0 auto;
-  top: 100vh;
+  top: 50%;
     
   
 }
@@ -76,9 +76,9 @@ margin: auto;
   text-transform: inherit;
 }
 .h4:hover{
-  font-size: 4vh;
+  font-size: 2rem;
   color: rgb(0, 132, 255);
-  transition: .2s;
+  transition: .4s;
   margin: auto;
 
 }
