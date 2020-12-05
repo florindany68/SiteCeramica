@@ -5,12 +5,23 @@
 .toplogos {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  float:center;
+  margin: 5% 0 0 0;
+}
+.toplogos:hover{
+ transform: scale(1.5);
+ transition: .2s;
+
 }
 
 .toplogos img {
-  width: 125px;
+  width: 20em;
   height: auto;
   object-fit: contain;
+  justify-content: center;
+  float:center;
+
 }
 
 .informatiiEchipa {
@@ -58,4 +69,12 @@ footer {
   justify-content: right;
   text-align: right;
   padding: 20px 25px 20px 0;
+}
+.poveste{
+  font-family:  'Segoe UI',  'Open Sans', 'Helvetica Neue', sans-serif;
+  text-decoration: none;
+  font-size: 26px;
+  margin-top: 5%;
+  justify-content: center;
+  text-align: center;
 }
