@@ -31,6 +31,8 @@
   font-size: 26px;
   margin-top: 5%;
   border-bottom: 2px solid blue;
+  justify-content: center;
+  text-align: center;
 }
 
 .echipaNoastraContainer {
@@ -46,19 +48,19 @@
 }
 
 .membruEchipa img {
-  width:12vh;
-  height: 12vh;
+  width:11vh;
+  height: 11vh;
   border-radius: 1rem 1rem 0 0;
   object-fit: cover;
 }
 
 .numeMembruEchipa {
-  font-size: 1em;
+  font-size: .9em;
   font-weight: bold;
 }
 
 .rolMembruEchipa {
-  font-size: 1em;
+  font-size: .9em;
   font-weight: 400;
   color: #282828;
 }
@@ -67,15 +69,64 @@ footer {
   font-family: Arial, Helvetica, sans-serif;
   margin-top: 2.5%;
   border-top: 1px solid gray;
-  justify-content: right;
-  text-align: right;
+  justify-content: center;
+  text-align: center;
   padding: 20px 25px 20px 0;
+  font-size:1vh;
 }
+section{
+  margin: 2.5% 10% 0 10%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:3vh;
+  justify-content: center;
+  text-align:center;
+}
+.contact a{
+  text-decoration: none;
+  text-transform: inherit;
+  color: rgb(20, 165, 20);
+}
+.contact a:hover{
+  font-size: 3.1vh;
+  color: rgb(0, 132, 255);
+  transition: .4s;
+  margin: auto;
+}
+
 .poveste{
   font-family:  'Segoe UI',  'Open Sans', 'Helvetica Neue', sans-serif;
   text-decoration: none;
   font-size: 26px;
   margin-top: 5%;
+  justify-content: center;
+  text-align: center;
+}
+.socialmedia a{
+  text-decoration: none;
+  text-transform: inherit;
+  color: rgb(0, 0, 0);
+
+}
+.socialmedia a:hover{
+  color: rgb(20, 165, 20);
+  transition: .4s;
+  margin: auto;
+
+}
+.contactInstagram a{
+  text-decoration: none;
+  text-transform: inherit;
+  color: rgb(20, 165, 20);
+
+}
+.contactInstagram a:hover{
+  font-size: 3.1vh;
+  color: rgb(234, 0, 255);
+  transition: .4s;
+  margin: auto;
+
+}
+.titlu {
   justify-content: center;
   text-align: center;
 }
