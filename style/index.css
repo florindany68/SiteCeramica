@@ -109,7 +109,7 @@ footer {
   justify-content: center;
   text-align: center;
   padding: 20px 25px 20px 0;
-  font-size:0.8vh;
+  font-size:1vh;
 }
 .socialmedia a{
   text-decoration: none;
@@ -123,54 +123,4 @@ footer {
   margin: auto;
 
 }
-.dcrcontainer{
-  margin: 5% 0 0 0;
-  width: 20%;
-  justify-content: center;
-  text-align: center;
- 
-  border-bottom: 2px solid rgb(51, 255, 0);
-}
 
-.produse {
-  font-family: Arial, Helvetica, sans-serif;
-  color: #2d2d55;
-  font-size: 26px;
-  margin-top: 5%;
-  border-bottom: 2px solid blue;
-  justify-content: left;
-  text-align: left;
-  display: flex;
-  flex-wrap: wrap;
-}
-
-
-
-.producut{
-  text-decoration: none;
-  justify-content: left;
-  text-align: left;
-}
-
-.producut img {
-  width:11vh;
-  height: 11vh;
-  border-radius: 1rem 1rem 1rem 1rem;
-  object-fit: cover;
-}
-
-.numeProdus a {
-  font-size: .9em;
-  font-weight: bold;
-  text-decoration: none;
-}
-.numeProdus a:hover{
-  color: rgb(0, 162, 255);
-  transition: .2s;
-}
-
-.pretprodus {
-  font-size: .9em;
-  font-weight: 400;
-  color: #282828;
-}
