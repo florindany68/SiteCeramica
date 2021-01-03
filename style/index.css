@@ -102,15 +102,6 @@ margin: auto;
   color: white;
 }
 
-footer {
-  font-family: Arial, Helvetica, sans-serif;
-  margin-top: 2.5%;
-  border-top: 1px solid gray;
-  justify-content: center;
-  text-align: center;
-  padding: 20px 25px 20px 0;
-  font-size:1vh;
-}
 .socialmedia a{
   text-decoration: none;
   text-transform: inherit;
@@ -124,3 +115,74 @@ footer {
 
 }
 
+.informatiiEchipa {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2d2d55;
+  font-size: 26px;
+  margin-top: 5%;
+  border-bottom: 2px solid blue;
+  justify-content: center;
+  text-align: center;
+}
+
+.echipaNoastraContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.membruEchipa {
+  margin: 5% 0 0 0;
+  width: 25%;
+  justify-content: center;
+  text-align: center;
+}
+
+.membruEchipa img {
+  width:11vh;
+  height: 11vh;
+  border-radius: 1rem 1rem 0 0;
+  object-fit: cover;
+}
+
+.numeMembruEchipa {
+  font-size: .9em;
+  font-weight: bold;
+}
+
+.rolMembruEchipa {
+  font-size: .9em;
+  font-weight: 400;
+  color: #282828;
+}
+
+footer {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 2.5%;
+  border-top: 1px solid gray;
+  justify-content: center;
+  text-align: center;
+  padding: 20px 25px 20px 0;
+  font-size:1vh;
+}
+
+.farfurii{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2d2d55;
+  font-size: 26px;
+  margin-top: 5%;
+  border-bottom: 2px solid blue;
+  
+}
+
+.produs4 img{
+  width:17vh;
+  height: auto;
+  border-radius: 0 0 0 0;
+  object-fit: cover;
+}
+.produs4{
+  margin: 5% 0 0 0;
+  width: 20%;
+  justify-content: center;
+  text-align: center;
+}
