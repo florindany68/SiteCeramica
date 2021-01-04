@@ -87,7 +87,7 @@ section{
   color: rgb(20, 165, 20);
 }
 .contact a:hover{
-  font-size: 3.1vh;
+  font-size: 3vh;
   color: rgb(0, 132, 255);
   transition: .4s;
   margin: auto;
