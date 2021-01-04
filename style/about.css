@@ -84,7 +84,7 @@ section{
 .contact a{
   text-decoration: none;
   text-transform: inherit;
-  color: rgb(20, 165, 21);
+  color: rgb(20, 165, 20);
 }
 .contact a:hover{
   font-size: 3vh;
