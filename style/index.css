@@ -118,7 +118,7 @@ margin: auto;
 .informatiiEchipa {
   font-family: Arial, Helvetica, sans-serif;
   color: #2d2d55;
-  font-size: 26px;
+  font-size: 8vh;
   margin-top: 5%;
   border-bottom: 2px solid blue;
   justify-content: center;
@@ -130,7 +130,7 @@ margin: auto;
   flex-wrap: wrap;
   font-family: Arial, Helvetica, sans-serif;
   color: #2d2d55;
-  font-size: 26px;
+  font-size: 5vh;
   margin-top: 5%;
   border-bottom: 2px solid blue;
   justify-content: center;
@@ -145,14 +145,14 @@ margin: auto;
 }
 
 .membruEchipa img {
-  width:11vh;
-  height: 11vh;
+  width:9vh;
+  height: 9vh;
   border-radius: 1rem 1rem 0 0;
   object-fit: cover;
 }
 
 .numeMembruEchipa {
-  font-size: .9em;
+  font-size: .3em;
   font-weight: bold;
 }
 
@@ -175,7 +175,7 @@ footer {
 .farfurii{
   font-family: Arial, Helvetica, sans-serif;
   color: #2d2d55;
-  font-size: 26.1px;
+  font-size: 10vh;
   margin-top: 5%;
   border-bottom: 2px solid blue;
   
